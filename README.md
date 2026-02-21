@@ -35,17 +35,6 @@ Customer Behavior
 Product Performance
 Sales Trends
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
-
-🗂️ Project Structure (Example)
-/data
-   ├── erp_data.csv
-   ├── crm_data.csv
-/sql
-   ├── staging_queries.sql
-   ├── transformation_queries.sql
-   ├── analytics_queries.sql
-/docs
-   └── data_model_design.md
    
 🛠️ Technologies Used
 SQL Server
